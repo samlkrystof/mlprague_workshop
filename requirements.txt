@@ -1,0 +1,10 @@
+transformers
+scikit-learn
+numpy
+torch
+anthropic
+cleanlab
+datasets
+boto3
+sentence-transformers
+huggingface_hub
